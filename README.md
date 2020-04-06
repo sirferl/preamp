@@ -2,7 +2,7 @@
  arduino based remote control for sure PGA2311 preamp module:
 http://store.sure-electronics.com/product/AA-AB41148
 
-Before Building you have to import the sirferlsarduino library into the arduino IDE.
+Before Building you have to import the sirferlsOLED library into the arduino IDE.
 
 In the file define the two ports which are connected to the PGA2311-board remote cobnnector.
 

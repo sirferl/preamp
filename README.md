@@ -1,5 +1,5 @@
 # preamp
-arduino based remote control for sure PGA2311 preamp module:
+arduino based remote control for sure / wondom PGA2311 preamp module:
 http://store.sure-electronics.com/product/AA-AB41148
 
 Before Building you have to import the sirferlsOLED library into the arduino IDE.
